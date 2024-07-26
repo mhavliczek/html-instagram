@@ -1,0 +1,86 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: #000;
+}
+header, section, footer, article{
+    background-color: #fff;
+}
+i{
+    font-size: 30px;
+    
+}
+
+article{
+    margin: auto;
+    width: 390px;
+}
+section{
+   
+    margin: auto;
+}
+ul{
+    margin:0px;
+}
+ul li{
+    display: inline-block;
+    list-style-type: none;
+}
+.bookmark{
+   
+    margin-left: 245px;
+    display: inline;
+}
+
+.icons{
+   
+    float: left;
+    margin-left: -20px;
+}
+p{
+    padding: 2px 10px;
+    text-align: justify;
+}
+img{
+    width: 100%;
+    margin-bottom: 20px;
+}
+header div i .fa-brands fa-html5{
+    margin:1px;
+    float: left;
+    margin-left: 5px;
+    margin-top:5px;
+    
+}
+.textop{
+    padding-left:5px;
+    padding-top:5px;
+    font-size: 10px;
+    margin:auto;
+    display:inline-block;
+ }
+ header div i .fa-solid fa-ellipsis-vertical{
+    float:right;
+    
+   
+ }
+ /*Me rindo no se como sacar centrar los 3 puntitos*/
+.izquierdo{
+    text-align: right;
+    padding-left: 10px;
+}
+h6{
+    font-size: 12px;
+}
+derecho{
+    margin-left: 5px;
+    
+}
+.col-6.derecho{
+    padding-left: 17px;
+}
+.col-6.izquierdo{
+    padding-right:18px;
+    padding-top:5px;
+}
+
